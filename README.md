@@ -1,2 +1,2 @@
-# Calender
-Meeting Calender
+# Calendar
+Meeting Calendar
